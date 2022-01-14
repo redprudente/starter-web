@@ -18,6 +18,8 @@ This is a simple web project, development can be on my web server or even local 
 
 ## How to Contribute
 
+Please for this repository and then issue Pull Request for review.
+
 ### Copyright
 
 2022 Git.Training
